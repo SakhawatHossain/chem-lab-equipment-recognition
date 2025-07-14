@@ -16,7 +16,7 @@ The whole dataset features 6,960 labeled instances per 25 apparatus categories i
 [Download Dataset ZIP](https://figshare.com/ndownloader/files/44682395)
 
 📄 **DOI**  
-[https://doi.org/10.6084/m9.figshare.29110433.v1](https://doi.org/10.6084/m9.figshare.29110433.v1)
+[https://doi.org/10.6084/m9.figshare.29110433.v1](https://doi.org/10.6084/m9.figshare.29110433.v2)
 
 
 ## 📑 Citation
@@ -29,5 +29,5 @@ If you use this dataset in your research, please cite:
   title        = {Chemistry Lab Image Dataset Covering 25 Apparatus Categories},
   year         = 2025,
   publisher    = {figshare},
-  doi          = {10.6084/m9.figshare.29110433.v1}
+  doi          = {10.6084/m9.figshare.29110433.v2}
 }
